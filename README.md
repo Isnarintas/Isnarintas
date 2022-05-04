@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isnarintas
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Game Design
 
 <!---
 Isnarintas/Isnarintas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
