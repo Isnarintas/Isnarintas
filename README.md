@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Isnarintas
 - 🌱 I’m currently learning Game Design
-- Languages I coded something in : C++, C#, HTML, CSS, JavaScript
+- Languages I coded something in : C++, C#, HTML, CSS, JavaScript, PHP
 
 <!---
 Isnarintas/Isnarintas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
