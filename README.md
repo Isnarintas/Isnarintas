@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/2e496d70-6828-47bd-8f62-af46f9789793.svg)](https://wakatime.com/@2e496d70-6828-47bd-8f62-af46f9789793)
 
 - 👋 Hi, I’m @Isnarintas
-- 🌱 I’m currently learning Game Design
 - Languages I coded something in : C++, C#, HTML, CSS, JavaScript, PHP
 
 <!---
